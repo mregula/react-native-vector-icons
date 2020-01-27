@@ -591,6 +591,11 @@
   resolved "https://registry.yarnpkg.com/@mdi/font/-/font-4.0.96.tgz#6f31f6b7f7205c6c66a3488aefb8873ed8102e01"
   integrity sha512-kIHgEJcwWzd0jK/H/3MWIT20V3Mjy40RnNiYzcwdS5XNzl9MpByBOigsyS1uEVb8uomRXPq1xcXYWWMaU8zFSA==
 
+"@react-native-community/toolbar-android@0.1.0-rc.0":
+  version "0.1.0-rc.0"
+  resolved "https://registry.yarnpkg.com/@react-native-community/toolbar-android/-/toolbar-android-0.1.0-rc.0.tgz#ce8e297f9e7c3aec2d197a44c53e882b5e112a5e"
+  integrity sha512-OxLTiaRGSxoqD+85MXCnLyFxu9210pEW2aTwxASsaVaulWdDuG15QhWarNHJHjDZtsUtOFe9XIJkWdYHRo8tdQ==
+
 "@types/color-name@^1.1.1":
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/@types/color-name/-/color-name-1.1.1.tgz#1c1261bbeaa10a8055bbc5d8ab84b7b2afc846a0"
